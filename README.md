@@ -13,9 +13,9 @@ Este projeto é uma implementação de como realizar as operações de crud util
 ### Instalação do projeto
 
 Clone o repositório:<br>
-``` git clone https://github.com/VitorCeron/TodolistVue.git ```
+``` git clone https://github.com/VitorCeron/TodolistVue.git ``` <br>
 Instale as dependências:<br>
-``` npm install ```
+``` npm install ``` <br>
 Configure o Google Firebase, atualizando o arquivo na raiz: <br>
 ``` firebaseDb.js ``` <br>
 Execute o projeto: <br>
